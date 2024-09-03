@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+
+hr{
+    height: 2px;
+    background-color: black;
+    border-color: black;
+    width: 102%; 
+}
+
+.container{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 2000px;
+}
+
+.table{
+    background-color: goldenrod;
+    text-align: center;
+    align-items: center;
+}
